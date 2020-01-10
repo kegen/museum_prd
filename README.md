@@ -63,4 +63,4 @@
 ![image](https://github.com/kegen/museum_prd/blob/master/bwg4.png)
 
 
-[原型](https://github.com/kegen/museum_prd/blob/master/api%E5%8E%9F%E5%9E%8B.rp)
+[原型](http://nfunm037.gitee.io/museum/#g=1&p=app%E9%A6%96%E9%A1%B5)
